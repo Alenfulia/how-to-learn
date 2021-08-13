@@ -1,7 +1,12 @@
 .logo_place_header{
+    width: 183px;
+    height: 32px;
     top:30px;
     left:64px;
     position: absolute;
-    align-items: flex-start;
-    z-index: 3;
+    z-index: 4;
+  }
+  
+  .logo_place_header:hover{
+    opacity: 0.75;
   }
